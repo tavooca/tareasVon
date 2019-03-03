@@ -9,3 +9,6 @@ b = 'hola Naomi'
 print b
 print type(b)
 
+c = ('a',3)
+print c
+print type(c)
