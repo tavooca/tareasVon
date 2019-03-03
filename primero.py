@@ -12,6 +12,5 @@ def max (n1, n2):
     elif n2 < n1:
 
 // Un nuevo mensaje
-// --mensaje
 // --otro mensaje
 // 
