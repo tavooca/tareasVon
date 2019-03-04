@@ -10,3 +10,4 @@ b	segundo.py	/^b = 'hola Naomi'$/;"	v
 b	tercero.py	/^b = 'hola Naomi'$/;"	v
 c	tercero.py	/^c = ('a',3)$/;"	v
 max	primero.py	/^def max (n1, n2):$/;"	f
+min	primero.py	/^def min (n3, n4):$/;"	f
